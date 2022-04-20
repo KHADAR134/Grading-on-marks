@@ -4,22 +4,28 @@
 To write a C# program to grade the marks
 
 ## Algorithm:
-Step1:
+### Step1:
+
 Start<br/>
 
-Step2:
+### Step2:
+
 Create a class and declare one variable with integer datatype<br/>
 
-Step3:
+### Step3:
+
 Get marks from the User.<br/>
 
-Step4:
+### Step4:
+
 Use if and elif condition to check the grade<br/>
 
-Step5:
+### Step5:
+
 print the grade for the given mark<br/>
 
-Step6:
+### Step6:
+
 stop<br/>
 
 ## Program:
